@@ -1,0 +1,36 @@
+/**index.wxss**/
+page {}
+
+.btn-box {
+	width: 300rpx;
+	height: 300rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #ffffff;
+}
+
+.img {
+	width: 100%;
+	height: 100%;
+}
+
+.title {
+	font-size: 32rpx;
+	font-weight: bold;
+	margin-left: 25rpx;
+}
+
+.list {
+	margin-left: 25rpx;
+}
+.item{
+	margin-top: 12rpx;
+}
+.popup{
+    position: absolute;
+    width: 600rpx;
+    height: 400rpx;
+    background: #0e0e0e88;
+    margin: 0 auto;
+}
